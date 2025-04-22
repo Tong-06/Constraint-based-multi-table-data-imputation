@@ -1,0 +1,384 @@
+ID,Name,Thyroid Function,Physical Examination,Adenopathy,Pathology,Focality,Risk,T,N,M,Stage,Response,Recurred
+1.0,Rebecca Marshall,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,No
+2.0,Melanie West,Euthyroid,Multinodular goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+3.0,Stephanie Rangel,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+4.0,Michelle Pittman,Clinical Hypothyroidism,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+5.0,Mariah Anderson,Euthyroid,Multinodular goiter,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Excellent,No
+6.0,Chase Hoffman,Euthyroid,Multinodular goiter,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Indeterminate,No
+7.0,Julia Flores,Clinical Hyperthyroidism,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+8.0,Kelli Fisher,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+9.0,Diane Shannon,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+10.0,Andrea Compton,Euthyroid,Normal,Left,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+11.0,Amanda Owens,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+12.0,Jennifer Parker,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+13.0,Ruth Sanders,Euthyroid,Multinodular goiter,Left,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+14.0,Mary Anderson,Clinical Hyperthyroidism,Multinodular goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+15.0,Heidi Cox,Clinical Hypothyroidism,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+16.0,Mrs. Kayla Novak,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,No
+17.0,Amanda Smith,Clinical Hypothyroidism,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+18.0,Christy Campbell,Euthyroid,Multinodular goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Indeterminate,No
+19.0,Ashley Stevens,Euthyroid,Multinodular goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+20.0,Jennifer Phillips,Euthyroid,Multinodular goiter,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Indeterminate,No
+21.0,Donna Cook,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+22.0,Stacy Smith,Euthyroid,Single nodular goiter-left,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+23.0,Gina Lee,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Intermediate,T1a,N0,M0,I,Excellent,No
+24.0,Destiny Carlson,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+25.0,Ashley Harrison,Euthyroid,Multinodular goiter,No,Hurthel cell,Multi-Focal,Intermediate,T1a,N0,M0,I,Excellent,No
+26.0,Sherry Mccoy,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+27.0,Timothy Parrish,Subclinical Hyperthyroidism,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+28.0,Brandon Pollard,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+29.0,Michelle Mccullough,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+30.0,Meghan Wang,Subclinical Hypothyroidism,Normal,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+31.0,Ashley Roberts,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+32.0,Samantha Morgan,Clinical Hyperthyroidism,Normal,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+33.0,Denise Schneider,Euthyroid,Single nodular goiter-right,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+34.0,Tracy Holmes PhD,Euthyroid,Multinodular goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+35.0,Joseph Rogers,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+36.0,Morgan Sawyer,Subclinical Hypothyroidism,Single nodular goiter-left,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+37.0,Tiffany Stewart,Clinical Hyperthyroidism,Diffuse goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+38.0,Gary Sanchez,Clinical Hypothyroidism,Multinodular goiter,No,Micropapillary,Multi-Focal,Low,T1a,N0,M0,I,Excellent,No
+39.0,Rhonda Hanna,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+40.0,Cathy Owens,Euthyroid,Diffuse goiter,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+41.0,Kaitlyn Davidson,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+42.0,Kelly Porter,Euthyroid,Single nodular goiter-left,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+43.0,Michelle Rodriguez,Euthyroid,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+44.0,Brenda Rodriguez,Euthyroid,Multinodular goiter,No,Micropapillary,Uni-Focal,Intermediate,T1a,N0,M0,I,Excellent,No
+45.0,Teresa Cannon,Clinical Hyperthyroidism,Diffuse goiter,No,Micropapillary,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+46.0,Shannon Hill,Euthyroid,Multinodular goiter,No,Hurthel cell,Uni-Focal,Low,T1a,N0,M0,I,Excellent,No
+47.0,Stephanie Owens,Clinical Hypothyroidism,Multinodular goiter,No,Micropapillary,Uni-Focal,Intermediate,T1a,N0,M0,I,Excellent,No
+48.0,Karen Rodriguez,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T1a,N1b,M0,I,Excellent,No
+49.0,Ashley Mckinney,Euthyroid,Normal,Extensive,Papillary,Uni-Focal,Intermediate,T1a,N1b,M0,I,Structural Incomplete,Yes
+50.0,Stephanie Watts,Euthyroid,Multinodular goiter,Left,Follicular,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+51.0,Abigail Russell,Clinical Hypothyroidism,Single nodular goiter-right,No,Micropapillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+52.0,Jennifer Roberts,Subclinical Hyperthyroidism,Multinodular goiter,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+53.0,Cassandra Hatfield,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+54.0,Meredith Taylor,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+55.0,Mary Stout,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+56.0,Barbara Williams,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Indeterminate,No
+57.0,Carolyn Wilson,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+58.0,Kimberly Simmons,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+59.0,Jessica Rosario,Clinical Hyperthyroidism,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+60.0,Leslie Anderson,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+61.0,Robert Velasquez,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+62.0,Sydney Martinez,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+63.0,Mckenzie Castaneda,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+64.0,Tammy Anderson,Clinical Hypothyroidism,Multinodular goiter,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+65.0,Jill Wood,Subclinical Hyperthyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+66.0,Jessica Washington,Euthyroid,Multinodular goiter,Left,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+67.0,Kelly Padilla,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+68.0,Sierra Herman,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+69.0,William Berry,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+70.0,Rebecca Sweeney,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+71.0,Lisa Wright,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+72.0,Tina Manning,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+73.0,Anita Hernandez,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+74.0,Mrs. Kimberly Jimenez,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+75.0,Karen Ware,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+76.0,Crystal Johnson,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+77.0,Lori Jones,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+78.0,Tammy Taylor,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+79.0,Leah Joseph,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+80.0,Virginia Rice,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Excellent,No
+81.0,Ebony Patterson DVM,Clinical Hyperthyroidism,Diffuse goiter,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+82.0,Mary Haley,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+68.76470588235294,Darlene Chavez,Subclinical Hyperthyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+84.0,Jamie Rhodes,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T1b,N0,M0,I,Excellent,No
+85.0,Diana Gamble,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Intermediate,T1b,N1b,M0,I,Indeterminate,No
+86.0,Angelica Brown,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+87.0,Amy Bush,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T1b,N0,M0,I,Excellent,No
+88.0,Nicole Nguyen,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T1b,N0,M0,I,Indeterminate,Yes
+89.0,Dr. Caroline Robinson,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T1b,N1b,M0,I,Structural Incomplete,Yes
+90.0,Tracy Blanchard,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T1b,N1b,M0,I,Structural Incomplete,Yes
+91.0,Maria Patterson,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T1b,N1b,M0,I,Indeterminate,Yes
+92.0,Sheila Contreras,Euthyroid,Single nodular goiter-right,No,Follicular,Multi-Focal,Intermediate,T1b,N0,M0,I,Indeterminate,Yes
+93.0,Lisa Phillips,Euthyroid,Single nodular goiter-right,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+94.0,Molly Ward,Euthyroid,Diffuse goiter,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+95.0,Ms. Jennifer Bradford,Euthyroid,Single nodular goiter-left,Left,Hurthel cell,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+96.0,Dawn Austin,Subclinical Hyperthyroidism,Single nodular goiter-right,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+97.0,Rebecca Davis,Euthyroid,Single nodular goiter-left,No,Hurthel cell,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+98.0,Jamie Johnson,Euthyroid,Single nodular goiter-right,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+99.0,Shelby Arroyo,Euthyroid,Multinodular goiter,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+100.0,Nicole Webster,Euthyroid,Single nodular goiter-right,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+101.0,Jonathan Brown,Euthyroid,Single nodular goiter-right,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+102.0,Glenda Reese,Euthyroid,Single nodular goiter-left,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+103.0,Melinda Lee,Clinical Hypothyroidism,Single nodular goiter-left,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+104.0,Tammy Owens,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+105.0,Rebecca Rogers,Clinical Hypothyroidism,Single nodular goiter-right,Right,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+106.0,Michelle Scott,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+107.0,Stephanie Mitchell,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+108.0,Kelly Trujillo,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+109.0,Lauren Lee,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+110.0,Crystal Romero,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+111.0,Julia Stewart,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+112.0,Amanda Bailey,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+113.0,Bonnie Gallagher,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+114.0,Marcia White,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+115.0,Anna Sellers,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+116.0,Jennifer Clark,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+117.0,Renee Lowe,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+118.0,Jo Moore,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Indeterminate,No
+119.0,Megan Stanton,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+120.0,Cassandra Mckee,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+121.0,Amanda Randolph,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+122.0,Dr. Stephanie Guzman,Euthyroid,Multinodular goiter,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+123.0,Samantha Ortiz,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+124.0,Ashley French,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+125.0,Kaitlyn Le,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+126.0,Kristine Ferguson,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+127.0,Alejandra Guzman,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+128.0,Kimberly Carson,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+129.0,Kelly Cole,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+130.0,Allison Hopkins,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+131.0,Mrs. Diana Baldwin,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+132.0,Danielle Casey,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+133.0,Janice Decker,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+134.0,Kiara Hunt,Clinical Hyperthyroidism,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+135.0,Erin Rivera,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Intermediate,T2,N0,M0,I,Excellent,No
+136.0,Stephanie Wilson,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+137.0,Courtney Johnson,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+138.0,Teresa Cobb,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+139.0,Maria Brown,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+140.0,Samantha Baker,Euthyroid,Normal,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+141.0,Ashley Mason,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+142.0,Nichole Pope,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+143.0,Jackie Webb,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+144.0,Emily Bennett,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+145.0,Rachel Dominguez,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+146.0,Ashley Santos MD,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+147.0,Mrs. Nicole Ortiz,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T2,N0,M0,I,Indeterminate,No
+148.0,Kristen Carney,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N0,M0,I,Indeterminate,No
+149.0,Diana Green,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+150.0,Angel Gibbs,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+151.0,Carol Johnson,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+152.0,Ashley Cervantes,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+153.0,Amanda Gutierrez,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+154.0,Lauren Sims,Euthyroid,Normal,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+155.0,Terri Lester,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+156.0,Kristen Manning,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+157.0,Austin Owens,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+158.0,Brian Martin,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+159.0,Dr. Emily Wilson MD,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+160.0,Brenda Wolfe,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+161.0,Amanda Larson,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+162.0,Claudia Mcpherson,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+163.0,Meagan Jenkins,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+164.0,Allison Hernandez,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+165.0,Cindy Snyder,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+166.0,Deborah Williams,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+167.0,Heather Mccarthy,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+168.0,Katie Glover,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+169.0,Ana James,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+170.0,William Brady,Clinical Hypothyroidism,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+171.0,Bethany Brown,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+172.0,Christine Moore,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+173.0,Mark Rice,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+174.0,Alicia Lee,Euthyroid,Normal,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+175.0,Sandra Scott,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+176.0,Amber Oliver,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+177.0,Kristen White,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+178.0,Alexis Riley,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+179.0,Angela Leon,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+180.0,Shawn Gibson,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+181.0,Lindsey Singh,Subclinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+182.0,Patricia Willis,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+183.0,Jennifer Farmer,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,No
+184.0,Tina Lewis,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+185.0,Hannah Lucas,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+186.0,Kelsey Garrett,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+187.0,Melanie Flores,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N0,M0,I,Excellent,No
+188.0,Olivia Ramirez,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+189.0,Sandra Martin,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+190.0,Tammie Carpenter,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+191.0,Lisa Johnson,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+192.0,Kimberly Smith,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+193.0,Karen Avery,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N0,M0,I,Excellent,No
+194.0,Katherine Silva,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+195.0,Linda Day,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+196.0,Ralph Hall,Subclinical Hypothyroidism,Normal,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+197.0,Brianna Hill,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N0,M0,I,Excellent,No
+198.0,Tracy Fisher,Clinical Hyperthyroidism,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+199.0,Molly Thomas,Clinical Hyperthyroidism,Diffuse goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+200.0,Kyle Shaw,Clinical Hyperthyroidism,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Excellent,No
+201.0,Shannon Benton,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T2,N1b,M0,I,Excellent,No
+202.0,Debbie Brown,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Low,T2,N1b,M0,I,Excellent,No
+203.0,Jacob Mills DDS,Subclinical Hypothyroidism,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+204.0,Charles Wells,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+205.0,Shannon Gibson,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+206.0,Laura Harvey,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+207.0,Julie Mccoy,Euthyroid,Multinodular goiter,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+208.0,Suzanne Walker,Euthyroid,Multinodular goiter,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+209.0,Melinda Acevedo,Clinical Hypothyroidism,Normal,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+210.0,Sara Mccarthy,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+211.0,Heidi Crosby,Euthyroid,Multinodular goiter,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Excellent,No
+212.0,Michelle Campbell,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+213.0,Ashley Ross,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+214.0,Anthony Carey,Clinical Hyperthyroidism,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+215.0,Heather Smith,Subclinical Hypothyroidism,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Indeterminate,No
+216.0,Elizabeth Miller,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,No
+217.0,Ms. Michele Simmons,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Indeterminate,No
+218.0,Jessica Kidd,Clinical Hyperthyroidism,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,No
+219.0,Robert Beck,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Indeterminate,No
+220.0,Erin Boone,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,No
+221.0,Pamela Jenkins,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N1a,M0,I,Excellent,No
+222.0,Michelle Garcia,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Excellent,No
+223.0,Teresa Sims,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Indeterminate,No
+224.0,Terri Wagner,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,Yes
+225.0,Michael Hernandez,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,Yes
+226.0,Pamela Lambert,Clinical Hypothyroidism,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,Yes
+227.0,Donna Lara,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,High,T2,N0,M0,I,Structural Incomplete,Yes
+228.0,Debbie Mendez,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Low,T2,N1b,M0,I,Structural Incomplete,Yes
+229.0,William Myers,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Structural Incomplete,Yes
+230.0,Casey Green V,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+231.0,Jose Bryant,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+232.0,Danielle Rogers,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+233.0,Heather Benitez,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+234.0,Julia Thompson,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+235.0,Lori Mora,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,I,Structural Incomplete,Yes
+236.0,Michelle Thomas,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,II,Structural Incomplete,Yes
+237.0,Lacey Thompson,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T2,N1b,M0,II,Structural Incomplete,Yes
+238.0,Cole Caldwell,Clinical Hyperthyroidism,Normal,No,Papillary,Uni-Focal,Intermediate,T2,N1a,M0,I,Indeterminate,Yes
+239.0,Kimberly Dixon,Euthyroid,Single nodular goiter-left,No,Follicular,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,Yes
+240.0,Eric Cruz,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T2,N0,M0,I,Structural Incomplete,Yes
+241.0,Brendan Dickson,Euthyroid,Single nodular goiter-left,No,Follicular,Multi-Focal,High,T2,N0,M1,IVB,Structural Incomplete,Yes
+242.0,Drew Prince,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T2,N0,M0,I,Structural Incomplete,Yes
+243.0,Daniel Garcia,Euthyroid,Multinodular goiter,Left,Papillary,Uni-Focal,Low,T2,N0,M0,I,Biochemical Incomplete,Yes
+244.0,Debra Frank,Euthyroid,Multinodular goiter,No,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,No
+245.0,Paige Martin,Clinical Hyperthyroidism,Multinodular goiter,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+246.0,Tonya Jacobson,Euthyroid,Multinodular goiter,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,No
+247.0,Melinda Dean,Euthyroid,Multinodular goiter,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+248.0,Dawn Harris,Clinical Hypothyroidism,Single nodular goiter-right,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+249.0,Gloria James,Euthyroid,Single nodular goiter-left,Bilateral,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,No
+250.0,Laurie Hampton,Euthyroid,Single nodular goiter-left,No,Hurthel cell,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+251.0,Ms. Stephanie Curry,Subclinical Hypothyroidism,Normal,Right,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+252.0,Leah Eaton,Euthyroid,Single nodular goiter-left,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+253.0,Amy Williams,Clinical Hyperthyroidism,Multinodular goiter,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+254.0,Terri Rogers,Euthyroid,Multinodular goiter,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,No
+255.0,William Mitchell,Euthyroid,Single nodular goiter-left,Left,Follicular,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+256.0,Denise Fletcher,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+257.0,Taylor Mcdonald,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,No
+258.0,Katherine Rodriguez,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+259.0,Anne Stewart,Clinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Biochemical Incomplete,No
+260.0,Rhonda Palmer,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+261.0,Frederick Kelly,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+262.0,Sandra Murphy,Euthyroid,Single nodular goiter-left,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+263.0,Krista Scott,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+264.0,Theresa Brewer,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Excellent,No
+265.0,Linda Harris,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,No
+266.0,Kathryn Mcgee,Euthyroid,Single nodular goiter-left,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+267.0,Erin White,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+268.0,Eric Williams,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+269.0,Amy Gonzales,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+270.0,Jamie Cruz,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+271.0,Jennifer Russell,Clinical Hypothyroidism,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+272.0,Jennifer Aguirre,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+273.0,Samantha Nunez,Euthyroid,Single nodular goiter-left,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+274.0,Abigail Duke,Clinical Hypothyroidism,Single nodular goiter-left,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,No
+275.0,Robert Simpson,Euthyroid,Single nodular goiter-left,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+276.0,Oscar Adkins,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Indeterminate,No
+277.0,Nicole Baldwin,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Low,T3a,N0,M0,II,Excellent,No
+278.0,James Black,Euthyroid,Normal,No,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+279.0,Lance Frye,Euthyroid,Multinodular goiter,Left,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+280.0,Melissa Soto,Euthyroid,Multinodular goiter,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,No
+281.0,Tina Frost,Euthyroid,Single nodular goiter-right,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+282.0,Mary Casey,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,No
+283.0,Hannah Fuller,Euthyroid,Normal,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,I,Indeterminate,No
+284.0,Heather Mclean,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+285.0,Tara Cohen,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,I,Excellent,No
+286.0,Nicole Scott,Euthyroid,Single nodular goiter-left,No,Hurthel cell,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,No
+287.0,Jamie Perez,Clinical Hypothyroidism,Normal,No,Follicular,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,No
+288.0,Austin Simmons,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,No
+289.0,Kristin Dunn,Euthyroid,Single nodular goiter-left,Right,Papillary,Multi-Focal,Low,T3a,N1b,M0,I,Excellent,No
+290.0,Jacqueline Davis,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Excellent,No
+291.0,Miranda Bass,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,No
+292.0,Andrea Hurst,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Excellent,No
+293.0,Melinda Lowe,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Low,T3a,N1a,M0,I,Excellent,No
+294.0,Jessica Morris,Subclinical Hypothyroidism,Multinodular goiter,Right,Papillary,Uni-Focal,Intermediate,T3a,N1a,M0,I,Indeterminate,No
+295.0,Chad Thomas,Subclinical Hypothyroidism,Single nodular goiter-right,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,I,Excellent,No
+296.0,Jeanette Thompson,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,II,Excellent,No
+297.0,Monique Gomez,Euthyroid,Single nodular goiter-right,No,Hurthel cell,Uni-Focal,Low,T3a,N0,M0,I,Excellent,No
+298.0,Glenda Reed,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Excellent,No
+299.0,Paul Martinez,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,Yes
+300.0,Danielle Williamson,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Low,T3a,N0,M0,I,Structural Incomplete,Yes
+301.0,Kathryn Hernandez,Euthyroid,Multinodular goiter,No,Hurthel cell,Uni-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,Yes
+302.0,Danielle Howard,Euthyroid,Single nodular goiter-right,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,II,Indeterminate,Yes
+303.0,Scott Murillo,Euthyroid,Multinodular goiter,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Biochemical Incomplete,Yes
+304.0,Carrie Wolf,Euthyroid,Multinodular goiter,No,Papillary,Uni-Focal,Intermediate,T3a,N0,M0,II,Structural Incomplete,Yes
+305.0,Sarah Hansen,Euthyroid,Normal,Left,Papillary,Uni-Focal,Intermediate,T3a,N1b,M1,I,Structural Incomplete,Yes
+306.0,Tammy Burton,Euthyroid,Multinodular goiter,Right,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,Yes
+307.0,Lisa Guerra,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Indeterminate,Yes
+308.0,Julie Murphy,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+309.0,Pamela Moreno,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+310.0,Kathleen Morris,Euthyroid,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+311.0,Anthony Smith,Euthyroid,Multinodular goiter,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+312.0,Kimberly Galvan,Euthyroid,Single nodular goiter-right,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+313.0,Antonio Frazier,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+314.0,Melissa Simmons,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Biochemical Incomplete,Yes
+315.0,Lisa Delacruz,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+316.0,Samantha Davis,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+317.0,Daniel Smith,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+318.0,Hannah Rocha,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+319.0,Joyce Nichols,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+320.0,Joel Scott,Euthyroid,Multinodular goiter,Bilateral,Papillary,Uni-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+321.0,Lauren Molina,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,Yes
+322.0,Lisa Cabrera,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,Yes
+323.0,Edward Underwood,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,II,Structural Incomplete,Yes
+324.0,Sean Moore,Euthyroid,Single nodular goiter-right,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Structural Incomplete,Yes
+325.0,Dennis Petersen,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Indeterminate,Yes
+326.0,Rose Wade,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,II,Biochemical Incomplete,Yes
+327.0,Latoya Robinson,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,I,Biochemical Incomplete,Yes
+328.0,Veronica Underwood,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3a,N1a,M0,II,Indeterminate,Yes
+329.0,Joy Gould,Euthyroid,Single nodular goiter-right,No,Papillary,Uni-Focal,High,T3a,N1a,M0,I,Biochemical Incomplete,Yes
+330.0,Becky Lewis,Euthyroid,Single nodular goiter-left,No,Follicular,Multi-Focal,Low,T3a,N0,M0,I,Structural Incomplete,Yes
+331.0,Justin Marshall,Euthyroid,Single nodular goiter-left,Right,Follicular,Multi-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,Yes
+332.0,Bonnie Wilkins,Clinical Hypothyroidism,Single nodular goiter-left,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Structural Incomplete,Yes
+333.0,Sarah Bond,Euthyroid,Single nodular goiter-left,No,Follicular,Uni-Focal,Intermediate,T3a,N0,M0,I,Biochemical Incomplete,Yes
+334.0,Joel Sanford,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,High,T3a,N1b,M1,II,Structural Incomplete,Yes
+335.0,Wendy Sanchez,Euthyroid,Normal,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+336.0,Christian Evans,Euthyroid,Multinodular goiter,Extensive,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+337.0,Harold Hendrix,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+338.0,Angela Vaughan,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,Intermediate,T3a,N1b,M0,I,Structural Incomplete,Yes
+339.0,Megan Davis,Euthyroid,Single nodular goiter-left,Posterior,Papillary,Multi-Focal,High,T3a,N1b,M1,II,Structural Incomplete,Yes
+340.0,Jessica Faulkner DDS,Clinical Hyperthyroidism,Multinodular goiter,Left,Hurthel cell,Multi-Focal,Intermediate,T3a,N1a,M0,I,Structural Incomplete,No
+341.0,Samantha Fischer,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,Intermediate,T3b,N0,M0,I,Indeterminate,No
+342.0,Leslie Robertson,Clinical Hypothyroidism,Single nodular goiter-right,Right,Papillary,Uni-Focal,Intermediate,T3b,N1a,M0,I,Structural Incomplete,Yes
+343.0,Elizabeth Ryan,Euthyroid,Multinodular goiter,Right,Papillary,Multi-Focal,Intermediate,T3b,N1a,M0,I,Structural Incomplete,Yes
+344.0,Miss Sandra Moore DVM,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,Yes
+345.0,Susan Page,Euthyroid,Single nodular goiter-left,Left,Papillary,Uni-Focal,Intermediate,T3b,N1b,M0,I,Excellent,Yes
+346.0,Jessica Bullock,Euthyroid,Multinodular goiter,Left,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,Yes
+347.0,Chris Larson,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,I,Structural Incomplete,Yes
+348.0,Gary Lynch,Euthyroid,Single nodular goiter-left,Left,Micropapillary,Uni-Focal,Intermediate,T3b,N1b,M0,II,Structural Incomplete,Yes
+349.0,Alexa Davis,Subclinical Hypothyroidism,Multinodular goiter,Extensive,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,II,Structural Incomplete,Yes
+350.0,Jonathan Long,Subclinical Hypothyroidism,Single nodular goiter-left,Bilateral,Papillary,Multi-Focal,Intermediate,T3b,N1b,M0,III,Structural Incomplete,Yes
+351.0,Kristen Johnson,Subclinical Hypothyroidism,Single nodular goiter-left,No,Papillary,Multi-Focal,Intermediate,T3b,N1a,M1,II,Structural Incomplete,Yes
+352.0,Kevin Donovan,Clinical Hypothyroidism,Multinodular goiter,No,Hurthel cell,Multi-Focal,High,T3b,N0,M0,I,Structural Incomplete,Yes
+353.0,Nicole West,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Intermediate,T3b,N0,M0,I,Structural Incomplete,Yes
+354.0,Carolyn Haynes,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,High,T3b,N1a,M1,IVB,Structural Incomplete,Yes
+355.0,Jacob Vega,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,High,T3b,N1b,M1,II,Structural Incomplete,Yes
+356.0,Nancy Smith,Euthyroid,Single nodular goiter-right,No,Papillary,Multi-Focal,Intermediate,T4a,N0,M0,I,Excellent,No
+357.0,Anthony Grimes,Euthyroid,Single nodular goiter-left,Right,Hurthel cell,Multi-Focal,Intermediate,T4a,N1b,M0,II,Structural Incomplete,Yes
+358.0,Jeanette Robinson,Euthyroid,Single nodular goiter-left,Bilateral,Hurthel cell,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,Yes
+359.0,Melissa Martin,Euthyroid,Multinodular goiter,Right,Papillary,Uni-Focal,High,T4a,N1b,M0,I,Structural Incomplete,Yes
+360.0,Elizabeth Chambers,Euthyroid,Multinodular goiter,Extensive,Papillary,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,Yes
+361.0,James Morgan,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M0,I,Structural Incomplete,Yes
+362.0,Lauren Campbell,Euthyroid,Multinodular goiter,Bilateral,Papillary,Uni-Focal,High,T4a,N1b,M0,I,Structural Incomplete,Yes
+363.0,Vanessa Chavez,Euthyroid,Multinodular goiter,Right,Papillary,Uni-Focal,High,T4a,N1b,M0,III,Structural Incomplete,Yes
+364.0,Catherine Murphy,Euthyroid,Single nodular goiter-right,Right,Papillary,Multi-Focal,High,T4a,N1b,M0,III,Structural Incomplete,Yes
+365.0,Michele Thomas,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M1,IVB,Structural Incomplete,Yes
+366.0,Michelle Ray,Euthyroid,Single nodular goiter-left,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,Yes
+367.0,Susan Ramirez,Euthyroid,Multinodular goiter,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,Yes
+368.0,Scott Kaiser,Euthyroid,Single nodular goiter-left,No,Hurthel cell,Multi-Focal,Intermediate,T4a,N0,M0,II,Structural Incomplete,Yes
+369.0,Janice Harvey,Euthyroid,Multinodular goiter,Posterior,Papillary,Multi-Focal,High,T4a,N1b,M0,II,Structural Incomplete,Yes
+370.0,Lawrence White,Subclinical Hypothyroidism,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4a,N1b,M0,III,Structural Incomplete,Yes
+371.0,Christopher Hall MD,Clinical Hyperthyroidism,Multinodular goiter,No,Follicular,Multi-Focal,High,T4a,N0,M1,IVB,Structural Incomplete,Yes
+372.0,Heather Murray,Euthyroid,Multinodular goiter,No,Papillary,Multi-Focal,High,T4a,N1a,M1,II,Structural Incomplete,Yes
+373.0,Tricia Douglas,Subclinical Hypothyroidism,Multinodular goiter,No,Papillary,Multi-Focal,High,T4a,N0,M0,IVA,Biochemical Incomplete,Yes
+374.0,Jonathan Burns,Euthyroid,Single nodular goiter-left,Extensive,Papillary,Multi-Focal,High,T4a,N1b,M1,II,Structural Incomplete,Yes
+375.0,Alexander Dillon,Euthyroid,Single nodular goiter-left,Left,Papillary,Multi-Focal,High,T4a,N1b,M1,IVB,Structural Incomplete,Yes
+376.0,Teresa Hopkins,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,IVB,Structural Incomplete,Yes
+377.0,Daniel King,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,I,Structural Incomplete,Yes
+378.0,David Bird,Euthyroid,Single nodular goiter-left,Bilateral,Follicular,Uni-Focal,High,T4b,N1b,M1,II,Structural Incomplete,Yes
+379.0,Louis Stevens,Euthyroid,Single nodular goiter-right,Right,Follicular,Uni-Focal,High,T4b,N1b,M1,IVB,Biochemical Incomplete,Yes
+380.0,Francisco Kelly,Euthyroid,Multinodular goiter,Extensive,Papillary,Multi-Focal,High,T4b,N1b,M1,IVB,Structural Incomplete,Yes
+381.0,Mr. Joshua Murray,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M1,IVB,Structural Incomplete,Yes
+382.0,Nicholas Potter,Clinical Hyperthyroidism,Multinodular goiter,Extensive,Hurthel cell,Multi-Focal,High,T4b,N1b,M0,IVA,Structural Incomplete,Yes
+383.0,Austin Horne,Euthyroid,Multinodular goiter,Bilateral,Papillary,Multi-Focal,High,T4b,N1b,M0,IVA,Structural Incomplete,Yes
